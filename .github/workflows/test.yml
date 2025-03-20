@@ -28,6 +28,6 @@ jobs:
       # - name: Run Sart
       # run: npm run start
       - name: Run Tests
-        run: npm run test
+        run: npm run test-component
 
         # This is the step that will fail the workflow if the tests fail
