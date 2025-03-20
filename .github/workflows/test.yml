@@ -30,3 +30,5 @@ jobs:
 
       - name: Run Tests
         run: npm run test
+
+        # This is the step that will fail the workflow if the tests fail
